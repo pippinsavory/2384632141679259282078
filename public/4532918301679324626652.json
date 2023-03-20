@@ -1,0 +1,100 @@
+{
+  "project_info": {
+    "project_number": "664705616374",
+    "project_id": "berry-creative",
+    "storage_bucket": "berry-creative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664705616374:android:56cec152420b7c8dee1fd7",
+        "android_client_info": {
+          "package_name": "com.berrycreative.aestheticbathroomideatocaboca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664705616374-ndim2ii5bjob382glq86qq0lf95b17lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1_g_w4a_BhWkDToPOfIR8wvRiNL56Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664705616374-ndim2ii5bjob382glq86qq0lf95b17lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8489279450951745~8579992700"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664705616374:android:01ee9b6cd89eb8abee1fd7",
+        "android_client_info": {
+          "package_name": "com.berrycreative.tocabocapinkroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664705616374-ndim2ii5bjob382glq86qq0lf95b17lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1_g_w4a_BhWkDToPOfIR8wvRiNL56Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664705616374-ndim2ii5bjob382glq86qq0lf95b17lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8489279450951745~8163844714"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664705616374:android:bc503be41f3765c9ee1fd7",
+        "android_client_info": {
+          "package_name": "com.garytyf.tes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664705616374-ndim2ii5bjob382glq86qq0lf95b17lf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1_g_w4a_BhWkDToPOfIR8wvRiNL56Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664705616374-ndim2ii5bjob382glq86qq0lf95b17lf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8489279450951745~5838205910"
+    }
+  ],
+  "configuration_version": "1"
+}
